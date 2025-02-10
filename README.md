@@ -1,2 +1,2 @@
 # beecrowd
-Repositório com resoluções de exercícios da plataforma Beecrowd
+Repositório com minhas resoluções dos problemas propostos pela plataforma Beecrowd
